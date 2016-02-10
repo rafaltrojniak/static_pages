@@ -1,0 +1,24 @@
+# basic
+title: Hexo test page
+subtitle: Subtitle
+favicon: favicon.ico
+avatar: images/avatar.png
+
+# disqus
+disqus_shortname: drakeleung
+
+# social
+social:
+  github: https://github.com/rafaltrojniak
+
+# nav #
+nav:
+  home: .
+  archive: archives
+  about: about
+
+# heox-renderre-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
